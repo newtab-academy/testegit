@@ -5,7 +5,6 @@ function App() {
   return (
     <>
       <div className="App">
-        sdfsdfsdfsd
         <header className="App-header"></header>
         <UserList />
       </div>
